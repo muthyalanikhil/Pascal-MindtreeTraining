@@ -1,0 +1,4 @@
+D:\day2\Pascal\Pascal\bin\Debug\Pascal.exe
+D:\day2\Pascal\Pascal\bin\Debug\Pascal.pdb
+D:\day2\Pascal\Pascal\obj\x86\Debug\Pascal.exe
+D:\day2\Pascal\Pascal\obj\x86\Debug\Pascal.pdb
